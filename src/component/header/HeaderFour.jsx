@@ -113,7 +113,6 @@ class HeaderFour extends Component{
                                         <li><Link to="/contact-form">Contact Form</Link></li>
                                         <li><Link to="/google-map">Google Map</Link></li>
                                         <li><Link to="/columns">Columns</Link></li>
-                                        <li><Link to="/pricing-table">Pricing Table</Link></li>
                                     </ul>
                                 </li>
                                 <li><Link to="/contact" >Contact</Link></li>
