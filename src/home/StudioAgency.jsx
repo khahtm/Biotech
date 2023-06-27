@@ -19,8 +19,8 @@ const SlideList = [
     {
         textPosition: 'text-left',
         category: '',
-        title: 'Welcome Video Studio',
-        description: 'There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration.',
+        title: 'Sustainable Solutions for Organic Agriculture',
+        description: 'Our platform connects forward-thinking households and businesses with empty land to innovative biotech companies that provide solutions to enhance organic production',
         buttonText: 'Contact Us',
         buttonLink: '/contact'
     }

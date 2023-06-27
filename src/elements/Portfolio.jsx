@@ -12,7 +12,7 @@ import Footer from "../component/footer/Footer";
 const list = [
     {
         image: 'image-1',
-        category: 'Development',
+        category: 'Case',
         title: 'Getting tickets to the big show'
     },
     {

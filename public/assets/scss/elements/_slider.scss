@@ -209,7 +209,7 @@ Slider Default Style
             p {
                 &.description {
                     color: #c6c9d8;
-                    font-size: 24px;
+                    font-size: 20px;
                     line-height: 40px;
                     margin: 0;
                     padding: 0 16%;
@@ -558,7 +558,7 @@ Personal Portfolio
         &.slider-video-bg{
             .inner{
                 .title {
-                    font-size: 60px;
+                    font-size: 40px;
                     line-height: 80px;
                     margin-bottom: 20px;
                     @media #{$sm-layout} {

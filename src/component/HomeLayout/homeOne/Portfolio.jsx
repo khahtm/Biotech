@@ -7,28 +7,28 @@ import {Link} from "react-router-dom";
 const PortfolioList = [
     {
         image: 'image-1',
-        category: 'Development',
-        title: ' Getting tickets to the big show'
+        category: 'Initial Funding Round',
+        title: 'Drive the future of organic agriculture through our funding round.'
     },
     {
         image: 'image-2',
-        category: 'Development',
-        title: ' Getting tickets to the big show'
+        category: 'Project Investments',
+        title: ' Invest in specific organic initiatives aligned with your goals.'
     },
     {
         image: 'image-3',
-        category: 'Development',
-        title: ' Getting tickets to the big show'
+        category: 'Detailed Information',
+        title: ' Access comprehensive project details for informed decisions.'
     },
     {
         image: 'image-4',
-        category: 'Development',
-        title: ' Getting tickets to the big show'
+        category: 'Decentralized Opportunities',
+        title: ' Embrace transparent Ethereum-based NFT investments.'
     },
     {
         image: 'image-3',
-        category: 'Development',
-        title: ' Getting tickets to the big show'
+        category: 'Sustainable Future',
+        title: ' Support environmentally friendly and socially responsible farming'
     },
     {
         image: 'image-4',
@@ -39,8 +39,8 @@ const PortfolioList = [
 
 class Portfolio extends Component{
     render(){
-        let title = 'Our Works',
-        description = 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.';
+        let title = 'Investment Opportunities',
+        description = 'Invest in the Future of Organic Agriculture';
         return(
             <React.Fragment>
                 <div className="portfolio-wrapper">

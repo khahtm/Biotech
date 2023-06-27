@@ -2,8 +2,8 @@ import React, { Component } from "react";
 
 class AboutTwo extends Component{
     render(){
-        let title = 'About',
-        description = 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable. If you are going to use a passage of Lorem Ipsum,';
+        let title = 'About Biotech Innovate',
+        description = 'Biotech Innovate is a pioneering platform that empowers households and businesses with empty land to embark on a journey of organic product development. We understand the growing demand for environmentally conscious, organic products and aim to foster a sustainable agricultural ecosystem through the power of biotechnology.';
         return(
             <React.Fragment>
                 <div className="about-wrapper">
@@ -25,14 +25,14 @@ class AboutTwo extends Component{
                                     <div className="row mt--30 mt_sm--10">
                                         <div className="col-lg-6 col-md-12 col-sm-12 col-12">
                                             <div className="about-us-list">
-                                                <h3 className="title">Who we are</h3>
-                                                <p>There are many vtions of passages of Lorem Ipsum available, but the majority have suffered.</p>
+                                                <h3 className="title">Power of Biotechnology</h3>
+                                                <p>We harness the power of biotechnology to enhance organic production, optimizing yields and minimizing environmental impact.</p>
                                             </div>
                                         </div>
                                         <div className="col-lg-6 col-md-12 col-sm-12 col-12">
                                             <div className="about-us-list">
-                                                <h3 className="title">Who we are</h3>
-                                                <p>There are many vtions of passages of Lorem Ipsum available, but the majority have suffered.</p>
+                                                <h3 className="title">Visionaries and Biotech Experts</h3>
+                                                <p>Bridging landowners and biotech experts for organic innovation.</p>
                                             </div>
                                         </div>
                                     </div>

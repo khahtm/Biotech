@@ -13,8 +13,8 @@ import Footer from "../component/footer/Footer";
 
 class About extends Component{
     render(){
-        let title = 'About',
-        description = 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable. If you are going to use a passage of Lorem Ipsum Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable. If you are going.';
+        let title = 'About Biotech Innovates',
+        description = 'Biotech Innovate is a pioneering platform that empowers households and businesses with empty land to embark on a journey of organic product development. We understand the growing demand for environmentally conscious, organic products and aim to foster a sustainable agricultural ecosystem through the power of biotechnology.      ';
         return(
             <React.Fragment>
                 <PageHelmet pageTitle='About' />

@@ -4,7 +4,7 @@ import { FiCast , FiLayers , FiUsers , FiMonitor } from "react-icons/fi";
 const ServiceList = [
     {
         icon: <FiCast />,
-        title: 'Business Stratagy',
+        title: 'Submit Your Project',
         description: 'I throw myself down among the tall grass by the stream as I lie close to the earth.'
     },
     {

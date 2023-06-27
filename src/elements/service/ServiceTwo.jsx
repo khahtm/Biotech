@@ -4,30 +4,30 @@ import { FiCast , FiLayers , FiUsers , FiMonitor } from "react-icons/fi";
 const ServiceList = [
     {
         icon: <FiCast />,
-        title: 'Business Stratagy',
-        description: 'I throw myself down among the tall grass by the stream as I lie close to the earth.'
+        title: 'Submit Your Project',
+        description: ' Landowners and businesses with available land can submit their project details to Biotech Innovate through our user-friendly online form.'
     },
     {
         icon: <FiLayers />,
-        title: 'Website Development',
-        description: 'I throw myself down among the tall grass by the stream as I lie close to the earth.'
+        title: 'Solution Matching',
+        description: 'Our platform carefully analyzes your project requirements and matches you with suitable biotech companies that specialize in organic agriculture solutions.'
     },
     {
         icon: <FiUsers />,
-        title: 'Marketing & Reporting',
-        description: 'I throw myself down among the tall grass by the stream as I lie close to the earth.'
+        title: 'Collaborate and Innovate',
+        description: 'Collaborate with biotech experts for sustainable farming practices. Boost organic product output together.'
     },
     {
         icon: <FiMonitor />,
-        title: 'Mobile App Development',
-        description: 'I throw myself down among the tall grass by the stream as I lie close to the earth.'
+        title: 'Verified Carbon Credits',
+        description: 'Cut carbon emissions, earn verified credits for trading. Partnered organizations ensure highest standards.'
     }
 ]
 
 class ServiceTwo extends Component{
     render(){
-        let title = 'Services',
-        description = 'There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.';
+        let title = 'How It Works',
+        description = 'Connecting Organic Businesses and Biotech Experts';
         return(
             <React.Fragment>
                 <div className="row">

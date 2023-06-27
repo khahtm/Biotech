@@ -12,7 +12,7 @@ import { slickDot , portfolioSlick2 } from "../page-demo/script";
 const list = [
     {
         image: 'image-1',
-        category: 'Development',
+        category: 'Commons',
         title: 'Getting tickets to the big show'
     },
     {

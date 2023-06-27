@@ -5,7 +5,7 @@ import { portfolioSlick } from "../../page-demo/script";
 const PortfolioList = [
     {
         image: 'image-1',
-        category: 'Development',
+        category: 'Test1',
         title: ' Getting tickets to the big show'
     },
     {
