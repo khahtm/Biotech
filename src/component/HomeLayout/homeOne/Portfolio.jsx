@@ -28,12 +28,12 @@ const PortfolioList = [
     {
         image: 'image-3',
         category: 'Sustainable Future',
-        title: ' Support environmentally friendly and socially responsible farming'
+        title: ' Support environmentally friendly and socially responsible farming.'
     },
     {
         image: 'image-4',
-        category: 'Development',
-        title: ' Getting tickets to the big show'
+        category: 'Impact Investing',
+        title: ' Align your portfolio with our mission for regenerative practices.'
     }
 ]
 
