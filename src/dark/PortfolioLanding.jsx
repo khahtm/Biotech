@@ -149,7 +149,7 @@ const PortfolioLanding = () => {
                         <div className="row align-items-end">
                             <div className="col-lg-12 col-md-12 col-sm-12 col-12">
                                 <div className="section-title text-center">
-                                    <h2>Latest News</h2>
+                                    <h2>Latest Updates</h2>
                                     <p>There are many variations of passages of Lorem Ipsum available, <br />but the majority have suffered alteration.</p>
                                 </div>
                             </div>

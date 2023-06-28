@@ -17,16 +17,16 @@ class CounterOne extends Component{
     render(){
         let Data = [
             {
-                countNum : 199,
-                countTitle: 'The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those.',
+                countNum : 50,
+                countTitle: 'Connected and collaborated with 50+ households, businesses, and organic enterprises, driving advanced biotech practices.',
             },
             {
-                countNum : 575,
-                countTitle: 'The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those.',
+                countNum : 80,
+                countTitle: 'Achieved an average 80% increase in organic product output through sustainable biotech solutions.',
             },
             {
-                countNum : 69,
-                countTitle: 'The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those.',
+                countNum : 5,
+                countTitle: 'Raised $5 million in initial funding to expand operations and foster innovation in organic agriculture.',
             },
         ];
 

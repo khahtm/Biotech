@@ -108,7 +108,7 @@ class StudioAgency extends Component{
                         <div className="row">
                             <div className="col-lg-12">
                                 <div className="section-title text-center">
-                                    <h3 className="fontWeight500">Our Fun Facts</h3>
+                                    <h3 className="fontWeight500">Our Pride</h3>
                                 </div>
                             </div>
                         </div>
@@ -131,8 +131,8 @@ class StudioAgency extends Component{
                         <div className="row align-items-end">
                             <div className="col-lg-6">
                                 <div className="section-title text-left">
-                                    <h2>Latest News</h2>
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</p>
+                                    <h2>Latest Updates</h2>
+                                    <p>Discover innovations, success stories, and trends shaping sustainable farming. Join the movement towards a greener future.</p>
                                 </div>
                             </div>
                             <div className="col-lg-6 col-md-12 col-sm-12 col-12">

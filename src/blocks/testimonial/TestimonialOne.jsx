@@ -8,7 +8,7 @@ const TestimonialOne = () => {
                     <TabPanel>
                         <div className="rn-testimonial-content text-center">
                             <div className="inner">
-                                <p>Aklima The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections Bonorum et Malorum original.</p>
+                                <p>Empowering organic agriculture through biotech innovation. Together, we cultivate a greener future.</p>
                             </div>
                             <div className="author-info">
                                 <h6><span>Aklima </span> - COO, AMERIMAR ENTERPRISES, INC.</h6>
