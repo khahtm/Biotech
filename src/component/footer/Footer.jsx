@@ -44,7 +44,7 @@ class Footer extends Component{
                                         {/* Start Single Widget  */}
                                         <div className="col-lg-6 col-sm-6 col-12 mt_mobile--30">
                                             <div className="footer-link">
-                                                <h4>Say Hello</h4>
+                                                <h4>Contact Us</h4>
                                                 <ul className="ft-link">
                                                     <li><a href="mailto:admin@example.com">admin@example.com</a></li>
                                                     <li><a href="mailto:hr@example.com">hr@example.com</a></li>
@@ -63,7 +63,7 @@ class Footer extends Component{
 
                                         <div className="col-lg-12">
                                             <div className="copyright-text">
-                                                <p>Copyright © 2023Biotech-Innovate. All Rights Reserved.</p>
+                                                <p>Copyright © 2023 Biotech-Innovate. All Rights Reserved.</p>
                                             </div>
                                         </div>
                                     </div>

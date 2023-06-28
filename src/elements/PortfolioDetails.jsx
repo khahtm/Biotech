@@ -97,6 +97,14 @@ class PortfolioDetails extends Component{
                                         <div className="thumb">
                                             <img src="/assets/images/portfolio/portfolio-big-01.jpg" alt="Portfolio Images"/>
                                         </div>
+
+                                        <div className="thumb mb--30">
+                                            <img src="/assets/images/portfolio/portfolio-big-02.jpg" alt="Portfolio Images"/>
+                                        </div>
+
+                                        <div className="thumb">
+                                            <img src="/assets/images/portfolio/portfolio-big-01.jpg" alt="Portfolio Images"/>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

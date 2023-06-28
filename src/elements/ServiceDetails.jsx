@@ -34,8 +34,8 @@ class ServiceDetails extends Component{
                         <div className="row">
                             <div className="col-lg-12">
                                 <div className="rn-page-title text-center pt--100">
-                                    <h2 className="title theme-gradient">WEBSITE DEVELOPMENT</h2>
-                                    <p>Fresh From The Press Discription</p>
+                                    <h2 className="title theme-gradient">How It Works</h2>
+                                    <p>Transforming Organic Agriculture through Biotech Innovate</p>
                                 </div>
                             </div>
                         </div>
@@ -59,15 +59,18 @@ class ServiceDetails extends Component{
                                             </div>
                                             <div className="col-lg-6 col-12">
                                                 <div className="details mt_md--30 mt_sm--30">
-                                                    <p>but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum. You need to be sure there isn't anything embarrassing</p>
-                                                    <p>hidden in the middle of text. All the Lorem Ipsum generators tend toitrrepeat predefined chunks. Necessary, making this the first true generator on the Internet.</p>
-                                                    <h4 className="title">Proceess of metel</h4>
+                                                    <p>Together, we revolutionize organic agriculture, leveraging biotechnology to drive sustainable practices, increase yields, and create a greener future.</p>
+                                                    <p> Join us in transforming the way we grow food and make a positive impact on our planet.</p>
+                                                    <h4 className="title">Step 1: Submission</h4>
                                                     <ul className="liststyle">
-                                                        <li>Yet this above sewed flirted opened ouch</li>
-                                                        <li>Goldfinch realistic sporadic ingenuous</li>
-                                                        <li>Abominable this abidin far successfully then like piquan</li>
-                                                        <li>Risus commodo viverra</li>
-                                                        <li>Lorem ipsum dolor sit amet, consectetur adipiscing</li>
+                                                        <li>Landowners and organic businesses submit their project details and requirements through our user-friendly platform.</li>
+                                                        <li>Our experienced team carefully assesses each submission, considering factors such as land size, location, existing practices, and specific objectives.</li>
+                                                    </ul>
+
+                                                    <h4 className="title">Step 2: Solution Matching</h4>
+                                                    <ul className="liststyle">
+                                                        <li>Based on the project requirements, we leverage our extensive network and expertise to match landowners and organic businesses with specialized biotech companies.</li>
+                                                        <li>We consider factors like technological expertise, research capabilities, and compatibility to ensure the best possible match for each project.</li>
                                                     </ul>
                                                 </div>
                                             </div>
@@ -78,13 +81,17 @@ class ServiceDetails extends Component{
                                         <div className="row sercice-details-content align-items-center">
                                             <div className="col-lg-6 col-12 order-2 order-lg-1">
                                                 <div className="details mt_md--30 mt_sm--30">
-                                                    <p>but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum. You need to be sure there isn't anything embarrassing</p>
-                                                    <p>hidden in the middle of text. All the Lorem Ipsum generators tend toitrrepeat predefined chunks. Necessary, making this the first true generator on the Internet.</p>
-                                                    <h4 className="title">Our Working Process</h4>
+                                                    <h4 className="title">Step 3: Collaboration</h4>
                                                     <ul className="liststyle">
-                                                        <li>Yet this above sewed flirted opened ouch</li>
-                                                        <li>Goldfinch realistic sporadic ingenuous</li>
-                                                        <li>Abominable this abidin far successfully then like piquan</li>
+                                                        <li>Once the matching process is complete, landowners and organic businesses engage in discussions and collaborations with the selected biotech experts.</li>
+                                                        <li>Through these collaborations, tailored biotech solutions are developed and implemented on the land, addressing specific goals and challenges identified during the assessment phase.</li>
+                                                        <li>Our team facilitates the exchange of knowledge, resources, and expertise to ensure a successful implementation of sustainable biotech techniques.</li>
+                                                    </ul>
+                                                    <h4 className="title">Step 4: Monitoring </h4>
+                                                    <ul className="liststyle">
+                                                        <li>Throughout the implementation phase, Biotech Innovate provides ongoing monitoring and support.</li>
+                                                        <li>We track and evaluate key performance indicators, including yield improvements, soil health, water management, and reduced environmental impact.</li>
+                                                        <li>Continuous monitoring helps us identify any issues or challenges that may arise, allowing for timely adjustments and optimization of the biotech solutions.</li>
                                                     </ul>
                                                 </div>
                                             </div>
